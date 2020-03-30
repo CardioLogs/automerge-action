@@ -1,2 +1,7 @@
 .*
+Dockerfile
+LICENSE
+README.md
 node_modules/
+test/
+docs/
