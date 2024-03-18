@@ -22,7 +22,7 @@ function pullRequest() {
       }
     },
     base: {
-      ref: "master",
+      ref: "main",
       sha: "45600fe",
       user: { login: "username" },
       repo: {
